@@ -1,1 +1,0 @@
-/usr/bin/g++  -fopenmp -std=c++20 -m64 CMakeFiles/FS.dir/lab1/fs.cpp.o CMakeFiles/FS.dir/helper/threads.cpp.o -o FS 

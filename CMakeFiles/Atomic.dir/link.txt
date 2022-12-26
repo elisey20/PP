@@ -1,1 +1,0 @@
-/usr/bin/g++  -fopenmp -std=c++20 -m64 CMakeFiles/Atomic.dir/lab1/atomic.cpp.o CMakeFiles/Atomic.dir/helper/threads.cpp.o -o Atomic 
