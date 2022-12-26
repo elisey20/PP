@@ -1,0 +1,1 @@
+/usr/bin/g++  -fopenmp -std=c++20 -m64 CMakeFiles/Lab2.dir/lab2/randomizer.cpp.o CMakeFiles/Lab2.dir/helper/barrier.cpp.o CMakeFiles/Lab2.dir/helper/lut.cpp.o CMakeFiles/Lab2.dir/helper/threads.cpp.o -o Lab2 

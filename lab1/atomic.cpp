@@ -1,13 +1,13 @@
 #include <thread>
 #include <vector>
-#include <c++/10/atomic>
+#include <atomic>
 #include "../helper/threads.h"
 #include "../helper/vector.h"
 #include "../helper/tester.h"
 
 unsigned checkSumAtomic(const unsigned *v, size_t n) {
     std::atomic<unsigned> globalSum{0};
-    std::vector<std::thread> workers;
+    std::vector <std::thread> workers;
 
     auto worker = [&globalSum, v, n](unsigned t) {
         unsigned T = getThreadsNum();

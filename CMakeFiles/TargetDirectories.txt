@@ -1,0 +1,7 @@
+/home/elisey/Documents/Univer/Параллельное программирование/ParallelProgramming/CMakeFiles/DynamicAverage.dir
+/home/elisey/Documents/Univer/Параллельное программирование/ParallelProgramming/CMakeFiles/CS.dir
+/home/elisey/Documents/Univer/Параллельное программирование/ParallelProgramming/CMakeFiles/FS.dir
+/home/elisey/Documents/Univer/Параллельное программирование/ParallelProgramming/CMakeFiles/Atomic.dir
+/home/elisey/Documents/Univer/Параллельное программирование/ParallelProgramming/CMakeFiles/Lab2.dir
+/home/elisey/Documents/Univer/Параллельное программирование/ParallelProgramming/CMakeFiles/edit_cache.dir
+/home/elisey/Documents/Univer/Параллельное программирование/ParallelProgramming/CMakeFiles/rebuild_cache.dir
